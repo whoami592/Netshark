@@ -69,7 +69,7 @@ No `pip install` is needed.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/Netshark.git
+git clone https://github.com/whoami592/Netshark.git
 cd Netshark
 ```
 
